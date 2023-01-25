@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaUserCog className="about__icon" />
               <h5>Experience</h5>
-              <small>1+ Years working</small>
+              <small>1+ Année de travail</small>
             </article>
 
             <article className="about__card">
@@ -33,7 +33,7 @@ const About = () => {
             <article className="about__card">
               <BsFolder2Open className="about__icon" />
               <h5>Projects</h5>
-              <small>7+ Complete projet</small>
+              <small>7+ projet complet</small>
             </article>
           </div>
             <p>
